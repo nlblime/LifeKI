@@ -8,13 +8,6 @@
 
 ---
 
-## 📹 Demo-Video (GIF)
-Hier siehst du die LifeKI in Aktion (Video als GIF aufgenommen):
-
-> Ersetze `docs/lifeki_demo.gif` mit deinem aufgenommenen Overlay-Video.
-
----
-
 ## 🚀 Features
 - **Kooperatives Überleben**: Mehrere KI-Agenten mit gemeinsamer Ressourcenstrategie  
 - **Reinforcement Learning**: Q-Learning mit dynamischer Exploration (ε-greedy)  
@@ -25,16 +18,11 @@ Hier siehst du die LifeKI in Aktion (Video als GIF aufgenommen):
 
 ---
 
-## 📷 Screenshots
-| Simulation | Live-Graph |
-|------------|------------|
-| ![Simulation](./docs/simulation_example.png) | ![Graph](./docs/graph_example.png) |
-
----
-
 ## 🛠 Installation
+
+> **Empfohlen:** Python **3.9** oder höher
 
 ### 1️⃣ Repository klonen
 ```bash
-git clone https://github.com/DEIN_USERNAME/LifeKI.git
+git clone https://github.com/nlblime/LifeKI.git
 cd LifeKI
