@@ -21,6 +21,9 @@
 ## 🛠 Installation
 
 > **Empfohlen:** Python **3.9** oder höher
+> Python-Abhängigkeiten installieren:
+  ```bash
+  pip install -r requirements.txt
 
 ### 1️⃣ Repository klonen
 ```bash
