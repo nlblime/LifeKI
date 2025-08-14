@@ -1,6 +1,6 @@
 # 🧠 LifeKI – Kooperative Überlebenssimulation mit Reinforcement Learning
 
-![LifeKI Simulation](./docs/lifeki_demo.gif)
+![LifeKI Simulation](./docs/demo_vid.gif)
 
 > **LifeKI** ist eine interaktive Python-Simulation, in der mehrere Agenten mithilfe von **Q-Learning** lernen, gemeinsam zu überleben.  
 > Jeder Agent muss Nahrung finden, Energie verwalten und kooperativ agieren, um als Gemeinschaft länger zu überleben.  
